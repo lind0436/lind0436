@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am a Computer Science PhD student at the University of Minnesota in Professor Vipin Kumar's lab. Our lab focuses on using machine learning to address environmental problems. 
+
+ 📫 How to reach me: ... lind0436@umn.edu
 <!--
 **lind0436/lind0436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
